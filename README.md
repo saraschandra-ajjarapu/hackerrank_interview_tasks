@@ -17,3 +17,10 @@
  1) If the result of multiplying a and b is less than or equal to bound the function returns the result.
 
  2) If the result of multiplying a and b is greater than bound, the function raises a ValueError exception with the following   message:if a =2,b=5 and bound=8, then the message must be:"multiplication of 2 and 5 with bound 8 is not possible"
+
+# Move_zeros.py - Move zeros to end of an array
+
+
+•	Given an array of n numbers. Move all the 0’s to the end of the array. Maintain the order of other elements in the array. Traverse the array once.
+Input: {3, 5, 7, 0, 1, 0, 9}
+Output: 3 5 7 1 9 0 0
